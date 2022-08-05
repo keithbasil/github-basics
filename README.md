@@ -1,3 +1,3 @@
 ## github-basics
 
-#This is a repository where I learn GitHub
+#This is the repository where I learn GitHub
